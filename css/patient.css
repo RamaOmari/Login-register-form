@@ -1,0 +1,248 @@
+/*index page*/
+.caption{
+    
+    font-family: "Raleway", sans-serif;
+    color: #fff;
+    font-size: 25px;
+    font-style: italic ;
+}
+
+
+
+.contaner{
+    width: 1400px;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    /*border: 3px solid rgb(250, 248, 248);*/
+
+}
+
+.information{
+    text-align: center;
+    margin-right: 10px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size:20px;
+    
+}
+.done{
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size:15px;
+}
+
+.fa-solid {
+    font-size: 10px;
+}
+.fa-sharp {
+    font-size: 25px;
+
+}
+.fa-solid{
+    font-size: 10px;
+
+}
+
+
+/*regester page*/
+
+.container1{
+    width: 1100px;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.form-label{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+    color: #fff;
+
+}
+
+.form-check-label{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style: italic ;
+    font-size: 17px;
+    color: #fff;
+
+}
+
+.form-text{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style: italic ;
+    font-size: 17px;
+    color: #fff;
+
+}
+.form-control{
+    margin-bottom: 5px;
+}
+
+
+.btn{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 17px;
+    color: white;
+
+}
+
+
+
+
+/*login page*/
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    background: #11638c;
+    overflow: hidden;}
+::selection{
+    background: rgba(26,188,156,0.3);
+}
+.container{
+    max-width: 440px;
+    padding: 0 20px;
+    margin: 170px auto;
+}
+.wrapper{
+    width: 100%;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px 1px rgba(0,0,0,0.1);
+}
+.wrapper .title{
+    height: 90px;
+    background: #2996cd;
+    border-radius: 5px 5px 0 0;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper form{
+    padding: 30px 25px 25px 25px;
+}
+.wrapper form .row{
+    height: 45px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.wrapper form .row input{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    padding-left: 60px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+form .row input:focus{
+    border-color: #2996cd;
+    box-shadow: inset 0px 0px 2px 2px rgba(26,188,156,0.25);
+}
+form .row input::placeholder{
+    color: #999;
+}
+.wrapper form .row i{
+    position: absolute;
+    width: 47px;
+    height: 100%;
+    color: #fff;
+    font-size: 18px;
+    background: #2996cd;
+    border: 1px solid #2996cd;
+    border-radius: 5px 0 0 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper form .pass{
+    margin: -8px 0 20px 0;
+}
+.wrapper form .pass a{
+    color: #2996cd;
+    font-size: 17px;
+    text-decoration: none;
+}
+.wrapper form .pass a:hover{
+    text-decoration: underline;
+}
+.wrapper form .button input{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0px;
+    background: #2996cd;
+    border: 1px solid #2996cd;
+    cursor: pointer;
+}
+form .button input:hover{
+    background: #2996cd;
+}
+.wrapper form .signup-link{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 17px;
+}
+.wrapper form .signup-link a{
+    color: #2996cd;
+    text-decoration: none;
+}
+form .signup-link a:hover{
+    text-decoration: underline;
+}
+
+/*home page*/
+.link-info {
+    font-size: 25px;
+    padding-left: 100px;
+    
+    margin-left: 30px;
+    
+
+}
+.r{
+    font-family:"Noto Nastaliq Urdu", serif;
+    font-style: oblique;
+    font-size: 70px;
+    color: #fff;
+    
+
+   
+   margin-left: 20px;
+}
+.e{
+    
+    margin-top: 50px;
+    margin-left: 40px;
+    
+}
+.contener{
+    width: 1400px;
+    padding-left: 500px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+
+}
+.fa-solid{
+    color: white;
+    font-size: 30px;
+    
+}
